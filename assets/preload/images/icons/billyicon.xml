@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="bgAssets.png" width="3216" height="4672">
+	<SubTexture name="icon1" x="0" y="0" width="149" height="129"/>
+	<SubTexture name="icon2" x="161" y="0" width="144" height="129"/>
+	<SubTexture name="icon3" x="316" y="0" width="149" height="129"/>
+	<SubTexture name="icon4" x="478" y="0" width="141" height="129"/>
+	<SubTexture name="icon5" x="632" y="0" width="141" height="129"/>
+</TextureAtlas>
