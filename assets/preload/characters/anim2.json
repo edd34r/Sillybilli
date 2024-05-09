@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-110,
+				60
+			],
+			"indices": [],
+			"fps": 30,
+			"anim": "anim",
+			"loop": false,
+			"name": "HSLookalikeDialogue0"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/HSLookalikeDialogue2",
+	"position": [
+		160,
+		-50
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-323,
+		-340
+	],
+	"sing_duration": 6.1,
+	"scale": 2.5
+}
